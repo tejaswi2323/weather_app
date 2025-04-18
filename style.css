@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 2rem;
+    background: #f0f8ff;
+  }
+  
+  input,
+  button {
+    padding: 0.5rem;
+    margin: 0.5rem;
+    font-size: 1rem;
+  }
+  
+  .weather,
+  .forecast {
+    margin-top: 2rem;
+  }
+  
+  .forecast-card {
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 1rem;
+    margin: 0.5rem;
+    background: #fff;
+    width: 120px;
+  }
+  
